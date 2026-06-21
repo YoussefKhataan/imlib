@@ -1,4 +1,7 @@
 build
 test_data
 checklist.txt
+.cache
+.vscode
+
 
